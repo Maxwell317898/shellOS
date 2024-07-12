@@ -15,4 +15,6 @@ if you want to make your own apps you can all you need to do it inplement it wit
 more documentation on how to make your own app is coming soon
 
 ## currant apps
-- calculator ()
+- calculator (works)
+- tictactoe (works)
+- magnetic card swipe (in development ONLY FOR READING)
