@@ -13,12 +13,12 @@ display_menu() {
 # Function to run the calculator
 run_calculator() {
     clear
-    /Users/maxwellvanderpijl/Desktop/shellos/calculator.sh
+    "$HOME/shellos/calculator.sh"
 }
 
 # Function to run Tic-Tac-Toe
 run_tictactoe() {
-    /Users/maxwellvanderpijl/Desktop/shellos/tictactoe.sh
+    "$HOME/shellos/tictactoe.sh"
 }
 
 # Main loop
